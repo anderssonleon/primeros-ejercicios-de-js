@@ -1,0 +1,25 @@
+-tipos de datos
+
+string (cadena de texto)con '' o "" o ``
+
+number= sin comillas
+
+booleano = son 2 true o false
+
+-tipos de declaraciones de variable 
+
+var= pueden modoficar
+
+let=se pueden modoficar
+
+const= no cabian su valor se definen una sola ves
+
+como crear multiples variables
+ 
+let 1, 2, 3;
+
+HOSTING
+
+tiene que funcionar en cascada
+
+

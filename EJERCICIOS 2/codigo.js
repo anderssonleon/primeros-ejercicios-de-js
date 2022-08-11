@@ -79,8 +79,9 @@ class celuarAltaGama extends Celular{
 document.write(`
 ${celular1.InfoAltaGama()}<br><br>
 ${celular2.InfoAltaGama()}<br>
-
 `);
+
+
 
 
 
